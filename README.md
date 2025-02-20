@@ -18,9 +18,10 @@ This project implements **Dijkstra’s Algorithm** for finding the shortest path
 ## 🏗️ Project Structure  
 ```
 /dijkstra-pathfinder
-│── C_Code/                    # C Implementation
+│── CODE/                      # C Implementation
 │   ├── code.c                 # Main C program for shortest path calculation
-│── Web_Visualization          # Frontend Implementation
+│   ├── output                 # Output of the program
+│── Web_Visualization           # Frontend Implementation
 │   ├── pathfinding.html        # HTML + JS for interactive visualization
 │── README.md                   # Project Documentation
 ```
