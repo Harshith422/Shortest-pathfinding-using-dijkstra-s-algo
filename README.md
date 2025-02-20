@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your **Dijkstra's Algorithm Shortest Path Finder** project, which includes both the **C implementation** and the **web-based visualization** using **HTML, CSS, and JavaScript**.  
-
----
-
 # Dijkstra's Algorithm - Shortest Path Finder  
 
 ## 📌 Overview  
@@ -67,5 +63,3 @@ gcc code.c -o dijkstra
 Harshith  
 
 ---
-
-Would you like me to provide this as a file? 🚀
